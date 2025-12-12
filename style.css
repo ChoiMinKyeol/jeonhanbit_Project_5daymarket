@@ -12,7 +12,7 @@ html,body{
     flex-direction: column;
 }
 .buttons{
-    background-image: url("/sprite/background5.png");
+    background-image: url("./sprite/background5.png");
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -50,16 +50,16 @@ img{
     animation: 1.5s ease up_BackGround forwards;
 }
 .icon_1{
-    background-image: url("/sprite/icon1.png");
+    background-image: url("./sprite/icon1.png");
 }
 .icon_1:hover{
-     background-image: url("/sprite/icon1-H.png");
+     background-image: url("./sprite/icon1-H.png");
 }
 .icon_1:active{
-     background-image: url("/sprite/icon1-A.png");
+     background-image: url("./sprite/icon1-A.png");
 }
 .icon_2{
-    background-image: url("/sprite/icon2.png");
+    background-image: url("./sprite/icon2.png");
 }
 .icon_2:hover{
      background-image: url("/sprite/icon2-H.png");
@@ -112,4 +112,5 @@ p{
     to{
         background-color: #fdf0d7;
     }
+
 }

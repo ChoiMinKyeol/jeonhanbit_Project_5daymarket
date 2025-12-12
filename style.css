@@ -62,28 +62,28 @@ img{
     background-image: url("./sprite/icon2.png");
 }
 .icon_2:hover{
-     background-image: url("/sprite/icon2-H.png");
+     background-image: url("./sprite/icon2-H.png");
 }
 .icon_2:active{
-     background-image: url("/sprite/icon2-A.png");
+     background-image: url("./sprite/icon2-A.png");
 }
 .icon_3{
-    background-image: url("/sprite/icon3.png");
+    background-image: url("./sprite/icon3.png");
 }
 .icon_3:hover{
-     background-image: url("/sprite/icon3-H.png");
+     background-image: url("./sprite/icon3-H.png");
 }
 .icon_3:active{
-     background-image: url("/sprite/icon3-A.png");
+     background-image: url("./sprite/icon3-A.png");
 }
 .icon_4{
-    background-image: url("/sprite/icon4.png");
+    background-image: url("./sprite/icon4.png");
 }
 .icon_4:hover{
-     background-image: url("/sprite/icon4-A.png");
+     background-image: url("./sprite/icon4-A.png");
 }
 .icon_4:active{
-     background-image: url("/sprite/icon4-H.png");
+     background-image: url("./sprite/icon4-H.png");
 }
 p{
     margin: 210px 0px 0px 0px;
@@ -114,3 +114,4 @@ p{
     }
 
 }
+
